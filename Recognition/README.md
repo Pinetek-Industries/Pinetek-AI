@@ -8,3 +8,11 @@
 * Remotes
 * Tablets
 * Pillows
+* Sean Comerford
+* Computers
+* Televisions
+* stairs
+* Day Bed
+* Bunk Bed
+* Pullout Bed
+* backpack
