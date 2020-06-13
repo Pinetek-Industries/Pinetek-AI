@@ -2,3 +2,4 @@ help
 LIST OF COMMANDS
 add_directory
 nano
+logout
