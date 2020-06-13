@@ -5,3 +5,6 @@
 * Animals
 * Headphones
 * Snacks
+* Remotes
+* Tablets
+* Pillows
